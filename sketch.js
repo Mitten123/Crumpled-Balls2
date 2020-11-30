@@ -12,6 +12,7 @@ var dustbin_img;
 function preload(){
   dustbin_img=loadImage("dustbingreen.png")
 }
+
 function setup() {
 	createCanvas(1200, 400);
 
